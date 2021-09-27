@@ -1,4 +1,4 @@
-# E-Commerce site for Assignment-10
+# E-Commerce site TwoWheels
 
 ### Description
 This is a simple E-commerce website with MongoDB connection. An user can order items, login as an admin. Admin can insert new products, delete existing products from the database.
